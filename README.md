@@ -1,2 +1,2 @@
 # react-learn
-repository react + vite app for learning purpose
+repository react + vite app for learning purpose 2023
